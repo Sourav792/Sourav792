@@ -1,5 +1,7 @@
 # Hi there, I'm [Sourabh Singh] 👋
 
+![Profile Banner](https://media.licdn.com/dms/image/D5616AQE6xa1Is9iDSA/profile-displaybackgroundimage-shrink_350_1400/0/1707409763236?e=1721865600&v=beta&t=GW47Gdep9ApPMxjgpF0T0VdqpU6T-0YnrRKUEmmKof0)
+
 ## About Me
 
 I'm a [Frontend Developer] from [Rohtak]. I have a passion for [Full Stack Development], and I enjoy working on projects that involve [JavaScript, Jquary, GSAP, Bootstrap, CSS3, HTML5].
